@@ -1,1 +1,1 @@
-a4949563-52ac-4c72-8f74-228a73f9a8ea autoenable=true bucket=brainbican-knowledgegraph-jsonld-files datacenter=US encryption=none host=s3.amazonaws.com name=public-s3 port=80 publicurl=https://brainbican-knowledgegraph-jsonld-files.s3-us-east-1.amazonaws.com storageclass=STANDARD type=S3 timestamp=1720820957s
+a4949563-52ac-4c72-8f74-228a73f9a8ea autoenable=true bucket=brainbican-knowledgegraph-jsonld-files datacenter=US encryption=none host=s3.amazonaws.com name=public-s3 port=80 publicurl= storageclass=STANDARD type=S3 timestamp=1721071621s
